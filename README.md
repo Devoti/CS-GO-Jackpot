@@ -10,5 +10,5 @@ Made by Sebastian "Devoti" Reineling
 Created 2016/03/22
 ```
 ```
-Made by Sebastian "Devoti" Reineling
+
 ```
