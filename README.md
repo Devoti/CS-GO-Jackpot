@@ -1,8 +1,8 @@
 <snippet>
   <content>
 ## $CS:GO Jackpot
-Created by Sebastian "Devoti" Reineling
-asd
+* Created by Sebastian "Devoti" Reineling
+* asd
 ## Installation
 TODO: Describe the installation process
 ## Usage
