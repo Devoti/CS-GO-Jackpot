@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-# ${1:CS:GO Jackpot}
+# CS:GO Jackpot}
 Created by Sebastian "Devoti" Reineling
 asd
 ## Installation
