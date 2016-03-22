@@ -13,5 +13,5 @@ Created 2016/03/22
 Version 1.0.0
 ```
 ```
-Using: Bootstrap, Sweetalerts, Font-awsome.
+Bootstrap, Sweetalerts, Font-awsome and scripts coded by me.
 ```
